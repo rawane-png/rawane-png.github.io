@@ -1,0 +1,18 @@
+h1{
+   font-family: Arial, Helvetica, sans-serif;
+    text-align: center; /* permet de centrer le h1 qui se trouve dans la page html */
+}
+/* body{
+    background-color: aquamarine; cela permet de changer la coleur de la page  
+} */
+p{
+    font-size: larger;
+}
+li{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 250px;height: 325px;
+c
+}
